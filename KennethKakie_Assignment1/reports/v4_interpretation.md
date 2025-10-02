@@ -1,0 +1,1 @@
+Reading and writing are very correlated with each other. Math is not very corelated with reading nor writing. Everything is perfectly correlated with itself. Doing well in math does not suggeset one would do well in reading or writing. Doing well in reading suggests one would do well in swriting.

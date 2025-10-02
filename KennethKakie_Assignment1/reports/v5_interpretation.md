@@ -1,0 +1,1 @@
+There is a strong correlation between those who did well in reading doing well in math as well. Tset prep helped boost the lowest scores in both fields by around 30 points. The chart is skewed in that people seemed to perform well on math by default. Those who completed prep don't have a much different slope of the line than those who did not.

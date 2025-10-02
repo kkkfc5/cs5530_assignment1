@@ -1,0 +1,2 @@
+The mean, and upper and lower quartiles were around 5 points higher fore those who completed the courses compared to the none. The none group has a higher spread. The one group has a lot more outliers, and far worse performing outliers.
+A conclusion could be that test prep helped the outlier students perform better but had a negligible effect on the students at the bottom 50%.

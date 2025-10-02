@@ -1,0 +1,1 @@
+The average test score for a standard paying lunch student is around 70 points. The average test score for a reduced/free school lunch student is around 63 points. These both are on a scale of 0-100. The chart shows a marginally increased average score if a student is receiving a standard lunch.
